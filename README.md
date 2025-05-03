@@ -42,7 +42,7 @@ I'm a passionate **Full-Stack Web Developer** who loves building web apps using 
 
 ---
 
-### 🧠 Featured Projects
+<!-- ### 🧠 Featured Projects
 
 #### 🚧 Project 1 - Task Manager App
 
@@ -59,7 +59,7 @@ I'm a passionate **Full-Stack Web Developer** who loves building web apps using 
 > A visually stunning developer portfolio using GSAP & Framer Motion.
 > Live Demo: [portfolio.dev](https://portfolio.dev) | Repo: [GitHub](https://github.com/yourusername/animated-portfolio)
 
----
+---  -->
 
 ### 📈 GitHub Stats
 
