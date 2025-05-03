@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving\&color=0:00C9FF,100:92FE9D\&height=200\&section=header\&text=Hi%20there%20👋%20I'm%20a%20Full-Stack%20Developer\&fontSize=30\&fontAlignY=40\&desc=Web%20%26%20Mobile%20Development%20Enthusiast\&descAlignY=60)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hi%20there%20👋%20I'm%20a%20Full-Stack%20Developer&fontSize=30&fontAlignY=40&desc=Web%20%26%20Mobile%20Development%20Enthusiast&descAlignY=60)
 
 # 💻 About Me
 
