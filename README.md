@@ -74,7 +74,7 @@ I'm a passionate **Full-Stack Web Developer** who loves building web apps using 
 
 <p align="left">
   <a href="https://github.com/Shahzaim84" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/shah-zaim-813388277/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shahzaim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
