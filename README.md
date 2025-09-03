@@ -14,6 +14,7 @@ I'm a passionate **Full-Stack Web Developer** who loves building web apps using 
   <img src="https://img.shields.io/badge/AI-DeepSeek-purple" />
   <img src="https://img.shields.io/badge/AI-Gemini-4285F4?logo=google" />
   <img src="https://img.shields.io/badge/Replit-AI-black?logo=replit" />
+  <img src="https://img.shields.io/badge/Langchain-green?logo=langchain" />
 </p>
 
 ### 🌐 Web Development
@@ -64,8 +65,8 @@ I'm a passionate **Full-Stack Web Developer** who loves building web apps using 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahzaim84&show_icons=true&theme=radical" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzaim84&layout=compact&theme=radical" height="180px" />
 </p>
 
 ---
