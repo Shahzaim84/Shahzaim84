@@ -66,7 +66,7 @@ In addition to web and mobile development, I’m diving deep into AI-powered dev
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shahzaim84&show_icons=true&theme=radical" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahzaim&show_icons=true&theme=radical" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzaim84&layout=compact&theme=radical" height="180px" />
 </p>
 
