@@ -2,8 +2,9 @@
 
 # 💻 About Me
 
-I'm a passionate **Full-Stack Web Developer** who loves building web apps using the **MERN stack** (MongoDB, Express, React, Node). I'm also learning **React Native** to build hybrid mobile apps.
+I'm a passionate Full-Stack Web Developer who loves building web apps using the MERN stack (MongoDB, Express, React, Node). I'm also exploring React Native to build hybrid mobile apps.
 
+In addition to web and mobile development, I’m diving deep into AI-powered development, working with AI chatbot systems, AI integrations, RAG pipelines, automation workflows, and intelligent agents. I also explore web scraping, process automation, and data-driven solutions, combining traditional development with the power of AI to build smarter applications.
 ### 🚀 Technologies & Tools
 
 <p align="left">
