@@ -33,6 +33,7 @@ In addition to web and mobile development, I’m diving deep into AI-powered dev
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer_Motion-black?logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Langchain-green?logo=langchain" />
 </p>
 
 ### 📱 Mobile App Development
