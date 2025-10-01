@@ -47,7 +47,6 @@ In addition to web and mobile development, I’m diving deep into AI-powered dev
 
 ---
 
-<!-- ### 🧠 Featured Projects
 
 #### 🚧 Project 1 - Task Manager App
 
@@ -64,7 +63,6 @@ In addition to web and mobile development, I’m diving deep into AI-powered dev
 > A visually stunning developer portfolio using GSAP & Framer Motion.
 > Live Demo: [portfolio.dev](https://portfolio.dev) | Repo: [GitHub](https://github.com/yourusername/animated-portfolio)
 
----  -->
 
 ### 📈 GitHub Stats
 
