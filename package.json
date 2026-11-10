@@ -1,0 +1,20 @@
+{
+  "name": "shahzaim84-profile",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "build:live": "node scripts/build.mjs --fetch",
+    "preview": "node scripts/build.mjs --sample"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fontsource/instrument-serif": "^5.3.0",
+    "@fontsource/poppins": "^5.3.0",
+    "opentype.js": "^2.0.0"
+  },
+  "private": true,
+  "type": "module"
+}
